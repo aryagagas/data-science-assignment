@@ -18,4 +18,5 @@ Task
   a. Is there any relationship between who a person works for (their manager) and their performance score?
   b. What are our best recruiting sources if we want to ensure a low ratio of termination?
 
+## Explain
 In this project, I'm using pandas to work with and change data from a dataset. I'm also using seaborn to create visualizations that help me understand how different columns in the dataset are related. After that, I'm using this dataset to build a machine learning model that can make predictions.
